@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hey.
+   I am 'iamssdes,' or SSDES. You may be seeing this because of a post on r/Tkinter on Reddit.
+   I just develop things. That's all.
 
-<!--
-**iamssdes/iamssdes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 'So you come here and instantly make a repo?'
+   Yeah. This is currently the only thing I find important right now. PocketTk (the 'This') is pretty cool, right? Try it out.
+   ...i mean obviously I care about more. But whatever.
 
-Here are some ideas to get you started:
+## 'But still? Who are you, really?'
+   I want to stay as anonymous as possible, but I'll give you a quick rundown: I'm a developer that does things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 'What?'
+   More description coming soon when I find out more about myself.
